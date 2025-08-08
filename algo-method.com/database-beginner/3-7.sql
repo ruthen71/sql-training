@@ -1,5 +1,5 @@
 WITH remained_results AS (
-    SELECT 
+    SELECT
         email,
         score
     FROM
