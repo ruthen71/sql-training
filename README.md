@@ -1,4 +1,5 @@
 # sql-training
+A collection of solutions for SQL problems.
 
 ## アルゴ式
 
