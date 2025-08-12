@@ -8,5 +8,10 @@ A collection of solutions for SQL problems.
 
 ## SQLab
 
-- [URL](https://sqlab.net/works/)
+- [URL](https://sqlab.net/works)
 - [ディレクトリ](./sqlab.net)
+
+## SQL 50 (LeetCode)
+
+- [URL](https://leetcode.com/studyplan/top-sql-50)
+- [ディレクトリ](./top-sql-50)
