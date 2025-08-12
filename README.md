@@ -5,3 +5,8 @@ A collection of solutions for SQL problems.
 
 - [URL](https://algo-method.com)
 - [ディレクトリ](./algo-method.com)
+
+## SQLab
+
+- [URL](https://sqlab.net)
+- [ディレクトリ](./sqlab.net)
